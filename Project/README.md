@@ -1,7 +1,7 @@
-#Antarctica Climate Change 
+# Antarctica Climate Change 
 This modeling project is an example to demonstrate the approximate scope, files, and organization of a class project for CS 185C.
 
-##Project Description
+## Project Description
 In this project, I will explore the changes in sea temperature around Antarctica to answer the following science question:
 
 *How has significantly has global warming impacted Antarctica's sea surface temperature over the past three decades?*

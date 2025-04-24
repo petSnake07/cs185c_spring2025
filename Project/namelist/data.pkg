@@ -3,4 +3,6 @@
  useCAL         = .TRUE.,
  useEXF         = .TRUE.,
  useDIAGNOSTICS = .TRUE.,
+ useOBCS        = .TRUE.,
+ useKPP         = .TRUE.,
  &

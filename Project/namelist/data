@@ -36,7 +36,7 @@
 # Gridding parameters
  &PARM04
  usingSphericalPolarGrid=.TRUE.,
- delX=240*0.083333,
+ delX=360*0.083333,
  delY=360*0.083333,
  xgOrigin=-80,
  ygOrigin=-80,

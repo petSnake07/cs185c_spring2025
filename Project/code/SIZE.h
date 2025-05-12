@@ -44,8 +44,8 @@ CEOP
       PARAMETER (
      &           sNx =  60,
      &           sNy =  60,
-     &           OLx =   2,
-     &           OLy =   2,
+     &           OLx =   4,
+     &           OLy =   4,
      &           nSx =   3,
      &           nSy =   3,
      &           nPx =   2,
